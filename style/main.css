@@ -50,4 +50,17 @@ header nav a:hover {
 
     height: 400px;
     background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 40px;
+}
+
+.titulo{
+    font-size: 40px;
 }
